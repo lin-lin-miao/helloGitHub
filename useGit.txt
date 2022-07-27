@@ -1,51 +1,51 @@
 https://www.bilibili.com/video/BV1db4y1d79C?share_source=copy_web&vd_source=ce022a5957ae220f7de93c3d9a4dfba2
-//²Î¿¼¸ÃÊÓÆµ±àĞ´
+//å‚è€ƒè¯¥è§†é¢‘ç¼–å†™
 
-°²×°git
+å®‰è£…git
 (https://gitforwindows.org/)for windows
 
-¸´ÖÆ±ğÈËµÄÏîÄ¿
-¿ËÂ¡²Ö¿â£ºgit clone <gitµØÖ·>
+å¤åˆ¶åˆ«äººçš„é¡¹ç›®
+å…‹éš†ä»“åº“ï¼šgit clone <gitåœ°å€>
 
 
 
-´´½¨ÁËÒ»¸öÏîÄ¿(GitµÄÊ¹ÓÃ)
+åˆ›å»ºäº†ä¸€ä¸ªé¡¹ç›®(Gitçš„ä½¿ç”¨)
 
-121³õÊ¼»¯²Ö¿â£ºgit init
+121åˆå§‹åŒ–ä»“åº“ï¼šgit init
 
-Ìí¼ÓÎÄ¼şµ½Ôİ´æÇø£ºgit add -A
-°ÑÔİ´æÇøµÄÎÄ¼şÌá½»µ½²Ö¿â£ºgit commit -m "Ìá½»ĞÅÏ¢"
-²é¿´Ìá½»µÄÀúÊ·¼ÇÂ¼£ºgit log --stat
+æ·»åŠ æ–‡ä»¶åˆ°æš‚å­˜åŒºï¼šgit add -A
+æŠŠæš‚å­˜åŒºçš„æ–‡ä»¶æäº¤åˆ°ä»“åº“ï¼šgit commit -m "æäº¤ä¿¡æ¯"
+æŸ¥çœ‹æäº¤çš„å†å²è®°å½•ï¼šgit log --stat
 
-¹¤×÷Çø»Ø¹ö£ºgit checkout <filename>
-³·Ïú×îºóÒ»´ÎÌá½»£ºgit reset HEAD^1
+å·¥ä½œåŒºå›æ»šï¼šgit checkout <filename>
+æ’¤é”€æœ€åä¸€æ¬¡æäº¤ï¼šgit reset HEAD^1
 
-ÒÔµ±Ç°·ÖÖ§Îª»ù´¡ĞÂ½¨·ÖÖ§£ºgit checkout -b <branchname>
-ÁĞ¾ÙËùÓĞµÄ·ÖÖ§£ºgit branch
-µ¥´¿µØÇĞ»»µ½Ä³¸ö·ÖÖ§£ºgit checkout <branchname>
-É¾µôÌØ¶¨µÄ·ÖÖ§£ºgit branch -D <branchname>
-ºÏ²¢·ÖÖ§£ºgit merge <branchname>
+ä»¥å½“å‰åˆ†æ”¯ä¸ºåŸºç¡€æ–°å»ºåˆ†æ”¯ï¼šgit checkout -b <branchname>
+åˆ—ä¸¾æ‰€æœ‰çš„åˆ†æ”¯ï¼šgit branch
+å•çº¯åœ°åˆ‡æ¢åˆ°æŸä¸ªåˆ†æ”¯ï¼šgit checkout <branchname>
+åˆ æ‰ç‰¹å®šçš„åˆ†æ”¯ï¼šgit branch -D <branchname>
+åˆå¹¶åˆ†æ”¯ï¼šgit merge <branchname>
 
-ÍÆËÍµ±Ç°·ÖÖ§×îĞÂµÄÌá½»µ½Ô¶³Ì£ºgit push
-À­È¡Ô¶³Ì·ÖÖ§×îĞÂµÄÌá½»µ½±¾µØ£ºgit pull
+æ¨é€å½“å‰åˆ†æ”¯æœ€æ–°çš„æäº¤åˆ°è¿œç¨‹ï¼šgit push
+æ‹‰å–è¿œç¨‹åˆ†æ”¯æœ€æ–°çš„æäº¤åˆ°æœ¬åœ°ï¼šgit pull
 
 
-ÔÚGitHubÉÏ´´½¨²Ö¿â
-=ÔÚGitHubÉÏ´´½¨Ô¶¶ËµÄ²Ö¿â
+åœ¨GitHubä¸Šåˆ›å»ºä»“åº“
+=åœ¨GitHubä¸Šåˆ›å»ºè¿œç«¯çš„ä»“åº“
 
-½«±¾µØµÄ²Ö¿âÌá½»µ½GitHub
-(½«ÒÑÓĞ²Ö¿âÌá½»)
+å°†æœ¬åœ°çš„ä»“åº“æäº¤åˆ°GitHub
+(å°†å·²æœ‰ä»“åº“æäº¤)
 
-//GitHubÉÏµÄÌáÊ¾
-¡­or push an existing repository from the command line //(½«ÒÑÓĞ²Ö¿âÌá½»)
+//GitHubä¸Šçš„æç¤º
+â€¦or push an existing repository from the command line //(å°†å·²æœ‰ä»“åº“æäº¤)
 
-git remote add origin https://github.com/met-lin/helloGitHub.git    //½«GitHubÉÏµÄ²Ö¿â×÷ÎªÔ¶¶ËµÄ²Ö¿â
-git branch -M main                                                  //½«±¾µØ²Ö¿âÖ÷Ä¿Â¼¸ÄÎª main
-git push -u origin main                                             //½«±¾µØÍÆËÍÖÁGitHub//ĞèÒªÕËºÅÈ¨ÏŞ
+git remote add origin https://github.com/met-lin/helloGitHub.git    //å°†GitHubä¸Šçš„ä»“åº“ä½œä¸ºè¿œç«¯çš„ä»“åº“
+git branch -M main                                                  //å°†æœ¬åœ°ä»“åº“ä¸»ç›®å½•æ”¹ä¸º main
+git push -u origin main                                             //å°†æœ¬åœ°æ¨é€è‡³GitHub//éœ€è¦è´¦å·æƒé™
 
-//Èô³öÏÖÁËÏÂ·½´íÎó
+//è‹¥å‡ºç°äº†ä¸‹æ–¹é”™è¯¯
 fatal: unable to access 'https://myserver.com/gogs/user1/myapp/': SSL certificate problem: unable to get local issuer certificate
-//·ÃÎÊÏÂ·½Á´½Ó
+//è®¿é—®ä¸‹æ–¹é“¾æ¥
 http://t.csdn.cn/EIVnk
 
 

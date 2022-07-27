@@ -2,7 +2,7 @@ public class useGit {
 
     public static void main(String[] args) {
         
-        System.out.println("½¨Á¢git²Ö¿â");
+        System.out.println("å»ºç«‹gitä»“åº“");
         System.out.println("git int");
     }
 
