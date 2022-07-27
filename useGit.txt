@@ -41,6 +41,6 @@ https://www.bilibili.com/video/BV1db4y1d79C?share_source=copy_web&vd_source=ce02
 
 git remote add origin https://github.com/met-lin/helloGitHub.git    //将GitHub上的仓库作为远端的仓库
 git branch -M main                                                  //将本地仓库主目录改为 main
-git push -u origin main                                             //
+git push -u origin main                                             //将本地推送至GitHub//需要账号权限
 
 
