@@ -43,4 +43,9 @@ git remote add origin https://github.com/met-lin/helloGitHub.git    //将GitHub上
 git branch -M main                                                  //将本地仓库主目录改为 main
 git push -u origin main                                             //将本地推送至GitHub//需要账号权限
 
+//若出现了下方错误
+fatal: unable to access 'https://myserver.com/gogs/user1/myapp/': SSL certificate problem: unable to get local issuer certificate
+//访问下方链接
+http://t.csdn.cn/EIVnk
+
 
